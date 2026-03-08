@@ -1,0 +1,5 @@
+{
+  "runCommand": "streamlit run app.py --server.port $PORT",
+  "installCommand": "pip install -r requirements.txt",
+  "framework": null
+}
